@@ -24,4 +24,4 @@ Strong emphasis, aka bold, with **asterisks** or __underscores__.
 
 
 Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://www.vutbr.cz/vizual/images/o2.png "Logo Title Text 1")
