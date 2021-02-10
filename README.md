@@ -20,8 +20,6 @@ Strong emphasis, aka bold, with **asterisks** or __underscores__.
 - Or minuses
 + Or pluses
 
-[I'm an inline-style link](https://www.google.com)
+[VUT Brno](https://www.vutbr.cz)
 
-
-Inline-style: 
 ![alt text](https://www.vutbr.cz/vizual/images/o2.png "Logo Title Text 1")
