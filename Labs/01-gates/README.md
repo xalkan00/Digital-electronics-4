@@ -21,15 +21,50 @@ Strong emphasis, aka bold, with **asterisks** or __underscores__.
 + Or pluses
 
 
+
+library ieee;               
+use ieee.std_logic_1164.all;
+
+entity gates is
+	port(
+    	a_i:in std_logic;
+        b_i:in std_logic;
+        c_i:in std_logic;
+        f_o:out std_logic;
+        fnand_o:out std_logic;
+        fnor_o:out std_logic
+        );
+end entity gates;
+
+architecture dataflow of gates is
+begin
+    f_o <= ((not(b_i) and a_i) or (not(c_i) and not(b_i)));
+    fnand_o <= ((not(b_i)nand a_i) nand (not(c_i)nand not(b_i)));
+    fnor_o <= (not((b_i nor not(a_i)) nor (c_i nor b_i)));
+
+end architecture dataflow;
+
+
+	
+
 ![alt text](01-gates.png "Logo Title Text 1")
 c 	b 	a 	f(c,b,a)
+
 0 	0 	0 	0
+
 0 	0 	1 	1
+
 0 	1 	0 	0
+
 0 	1 	1 	0
+
 1 	0 	0 	0
+
 1 	0 	1 	1
+
 1 	1 	0 	0
+
 1 	1 	1 	0
+
 
 [Hykš playground](https://www.edaplayground.com/x/qfxM)
