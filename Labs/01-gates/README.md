@@ -23,7 +23,7 @@
 | 1 | 1 | 0 | 0 | 
 | 1 | 1 | 1 | 0 | 
 
-[Hykš 01-gates Distribuèní zákony](https://www.edaplayground.com/x/L5bX)
+[Hykš 01-gates Distribuční zákony](https://www.edaplayground.com/x/L5bX)
 
 ![alt text](https://raw.githubusercontent.com/mrhyks/Digital-electronics-1/main/Labs/01-gates/01-gates-distribuce.png "")
 
