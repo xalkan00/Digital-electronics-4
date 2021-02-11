@@ -27,7 +27,7 @@ end architecture dataflow;
 
 	
 
-![alt text](01-gates.png "")
+![alt text](https://raw.githubusercontent.com/mrhyks/Digital-electronics-1/main/Labs/01-gates/01-gates.png "")
 c 	b 	a 	f(c,b,a)
 
 0 	0 	0 	0
@@ -72,7 +72,7 @@ end architecture dataflow;
 
 [Hykš 01-gates De Morganovy zákony](https://www.edaplayground.com/x/qfxM)
 
-![alt text](01-gates-distribuce.png "")
+![alt text](https://raw.githubusercontent.com/mrhyks/Digital-electronics-1/main/Labs/01-gates/01-gates-distribuce.png "")
 
 library ieee;               
 use ieee.std_logic_1164.all;
