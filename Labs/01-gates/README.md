@@ -72,7 +72,7 @@ end architecture dataflow;
 
 [Hykš 01-gates De Morganovy zákony](https://www.edaplayground.com/x/qfxM)
 
-![alt text](01-gates-dis.png "")
+![alt text](01-gates-distribuce.png "")
 
 library ieee;               
 use ieee.std_logic_1164.all;
