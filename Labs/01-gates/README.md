@@ -1,5 +1,4 @@
-# H1 Digital-electronics-1
-# H2 1. cvièení Digitální elektronika
+# H1 Digital-electronics-1 01-gates
 [Hykš 01-Digital-electronics-1](https://github.com/mrhyks/Digital-electronics-1)
 
 library ieee;               
