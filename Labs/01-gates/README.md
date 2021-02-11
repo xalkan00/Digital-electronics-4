@@ -1,6 +1,6 @@
 # H1 Digital-electronics-1
-# H2 1. cviËenÌ Digit·lnÌ elektronika
-[Hykö 01-Digital-electronics-1](https://github.com/mrhyks/Digital-electronics-1)
+# H2 1. cvi√®en√≠ Digit√°ln√≠ elektronika
+[Hyk≈° 01-Digital-electronics-1](https://github.com/mrhyks/Digital-electronics-1)
 
 library ieee;               
 use ieee.std_logic_1164.all;
@@ -28,7 +28,7 @@ end architecture dataflow;
 	
 
 ![alt text](https://raw.githubusercontent.com/mrhyks/Digital-electronics-1/main/Labs/01-gates/01-gates.png "")
-c 	b 	a 	f(c,b,a)
+| c | b | a | f(c,b,a) |
 
 0 	0 	0 	0
 
@@ -70,7 +70,7 @@ end architecture dataflow;
 
 
 
-[Hykö 01-gates De Morganovy z·kony](https://www.edaplayground.com/x/qfxM)
+[Hyk≈° 01-gates De Morganovy z√°kony](https://www.edaplayground.com/x/qfxM)
 
 ![alt text](https://raw.githubusercontent.com/mrhyks/Digital-electronics-1/main/Labs/01-gates/01-gates-distribuce.png "")
 
@@ -99,7 +99,7 @@ begin
 end architecture dataflow;
 
 
-[Hykö 01-gates DistribuËnÌ z·kony](https://www.edaplayground.com/x/L5bX)
+[Hyk≈° 01-gates Distribu√®n√≠ z√°kony](https://www.edaplayground.com/x/L5bX)
 
 
 
